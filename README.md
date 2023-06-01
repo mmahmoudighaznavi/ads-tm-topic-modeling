@@ -4,7 +4,7 @@ Topic modeling is a fundamental text analysis technique since asking "What are t
 
 ## Instructions
 
-1. Create a repository under your GitHub account from this template: https://github.com/37chandler/ads-tm-topic-modeling. Instructions can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make your repository public or add your instructor’s Github account as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository).   
+1. Create a repository under your GitHub account from this template: https://github.com/roozbehsadeghian/ads-tm-topic-modeling. Instructions can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make your repository public or add your instructor’s Github account as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository).   
 1. The notebook “Topic Models.ipynb” holds detailed instructions for the assignment. In that notebook you are asked to do the following: 
     
     *  Run pre-written code exploring the Brown corpus.
